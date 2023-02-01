@@ -19,15 +19,6 @@ My name is Magdalena Chodorowska. I am lifelong learning Programmer Technician w
   - Creating test cases
   - Creating diagrams and decision tables
   - Implementation of test cases
-
-
-
-
-
-
-
-
-
 # Certificates
   - INF 03 Creation and administration of websites and internet applications and databases (HTML, CSS, JS, PHP, SQL) - programing technician 35140
   - INF 04 Designing, programming and testing applications (JAVA, C++, Android) - programing technician 351406 550 hours
@@ -35,8 +26,6 @@ My name is Magdalena Chodorowska. I am lifelong learning Programmer Technician w
 # Courses
   - [Practical software testing course](https://www.udemy.com/course/praktyczny-kurs-testowania-oprogramowania/)
   - [Postman from scratch - testing the REST API](https://www.udemy.com/course/postman-od-podstaw-testowanie-rest-api/) - in progress
-  -
-  -
 # Books
   - K.Pawłowska & N.Pawlak - Podróż przez świat testowania
   - Radosław Smilgin - Zawód tester
@@ -48,17 +37,15 @@ My name is Magdalena Chodorowska. I am lifelong learning Programmer Technician w
   - Stefania Winkel - Mentor Testowania Oprgramowania
   - Girls Who Tests
   - Gildia Testerów
-  - 
 # Recommended blogs
   - AkademiaQA - Bartek Kita(youtube)
   - Testuj.pl - Test, Bugs and Rock'n'Roll
   - Testelka.pl
-  -Kobietydokodu.pl
+  - Kobietydokodu.pl
   - [Testuj.pl](https://testuj.pl/)
   - [Remigiusz Bednarczyk](https://remigiuszbednarczyk.pl/)
-  - 
-# Webinars
-  - ....
-  -
-[My test plan example](https://docs.google.com/document/d/1VWlEnEj1T6tkx5Z33KBcRTcYbAI67iZn/edit?usp=sharing&ouid=102338291699286488435&rtpof=true&sd=true)
+ # My test case examples
+[My test plan example](https://drive.google.com/drive/u/2/folders/1S2HNe-5xLMtFmG5EXUCQdthBWxEqJ56J)
+# My bug reports
+[My bugs reports examlpe - htttps://cheapshop.pl](https://drive.google.com/drive/u/2/folders/1sUM-O_0rKL-Y8ZQA5KQ5SWg9HSG-XvYv)
 
