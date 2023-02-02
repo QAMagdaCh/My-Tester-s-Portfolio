@@ -48,4 +48,6 @@ My name is Magdalena Chodorowska. I am lifelong learning Programmer Technician w
 [My test plan example](https://drive.google.com/drive/u/2/folders/1S2HNe-5xLMtFmG5EXUCQdthBWxEqJ56J)
 # My bug reports
 [My bugs reports examlpe - htttps://cheapshop.pl](https://drive.google.com/drive/u/2/folders/1sUM-O_0rKL-Y8ZQA5KQ5SWg9HSG-XvYv)
+# Postman
+[Use of GET, POST, PUT, DELETE](https://drive.google.com/drive/u/2/folders/1jjWwDEJcW6lozPfZzEktW2y3KI-8KU8l)
 
