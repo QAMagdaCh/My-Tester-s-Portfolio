@@ -44,6 +44,9 @@ My name is Magdalena Chodorowska. I am lifelong learning Programmer Technician w
   - Kobietydokodu.pl
   - [Testuj.pl](https://testuj.pl/)
   - [Remigiusz Bednarczyk](https://remigiuszbednarczyk.pl/)
+ # My projects
+ - Individual project - testing application MrBuggy7
+ - [Bugs reports](https://drive.google.com/drive/u/2/folders/1UZLwApqkBzGWavLVy3AMOzqoK9VVqFp-)
  # My test case examples
 [My test plan example](https://drive.google.com/drive/u/2/folders/1S2HNe-5xLMtFmG5EXUCQdthBWxEqJ56J)
 # My bug reports
